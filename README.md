@@ -7,7 +7,7 @@ FitnestGym is a responsive fitness website built using React, JavaScript, HTML, 
 - **React**: 
 - **JavaScript**: 
 - **HTML**: 
-- **CSS/SCSS**: 
+- **CS: 
 - **Yarn**: 
 - **EmailJS**: 
 - **React-motion**: 
@@ -19,7 +19,7 @@ To get started with the project, follow these steps:
 1. Clone the repository from GitHub:
 
    ```
-   git clone https://github.com/HamdiNur/FitnestGym.git
+   git clone  https://github.com/HamdiNur/FitnestGym
    ```
 
 2. Navigate to the project directory:
@@ -40,11 +40,13 @@ To get started with the project, follow these steps:
    npm start 
    ```
 
-   This will start the development server and open the application in your default web browser at `http://localhost:3000`.
+   This will start the development server and open the application in your default web browser at
+   
+   `http://localhost:3000`.
 
    ## Deployments 
-   i used Vercel
-   Click Here fitnest-gym-git-master-hamdi-nurs-projects.vercel.app
+   i used Vercel to deploy
+   Click Here https://fitnest-gym.vercel.app/
 
 
 ## Project Structure
