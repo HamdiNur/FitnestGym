@@ -7,9 +7,9 @@ import Logo from "../../assets/logo.png"
 // import { Link } from 'react-scroll';
 const Footer = () => {
     return (
-        <div className="Footer-container">
+        <div className="Footer-container" >
             <hr />
-            <div className="footer">
+            <div className="footer" >
                 <div className="social-links">
                     <img src={Githup} alt="" />
                     <img src={Instagram} alt="" />
